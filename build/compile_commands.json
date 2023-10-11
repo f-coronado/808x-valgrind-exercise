@@ -1,12 +1,12 @@
 [
 {
   "directory": "/home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/build/app",
-  "command": "/usr/bin/c++   -I/home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/include    -std=gnu++14 -o CMakeFiles/shell-app.dir/AnalogSensor.cpp.o -c /home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/app/AnalogSensor.cpp",
+  "command": "/usr/bin/c++   -I/home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/include  -g   -std=gnu++14 -o CMakeFiles/shell-app.dir/AnalogSensor.cpp.o -c /home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/app/AnalogSensor.cpp",
   "file": "/home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/app/AnalogSensor.cpp"
 },
 {
   "directory": "/home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/build/app",
-  "command": "/usr/bin/c++   -I/home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/include    -std=gnu++14 -o CMakeFiles/shell-app.dir/main.cpp.o -c /home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/app/main.cpp",
+  "command": "/usr/bin/c++   -I/home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/include  -g   -std=gnu++14 -o CMakeFiles/shell-app.dir/main.cpp.o -c /home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/app/main.cpp",
   "file": "/home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/app/main.cpp"
 }
 ]
