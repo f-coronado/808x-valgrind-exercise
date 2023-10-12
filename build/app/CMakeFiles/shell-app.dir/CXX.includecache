@@ -10,14 +10,6 @@
 iostream
 -
 
-/home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/app/AnalogSensor.cpp
-AnalogSensor.hpp
--
-numeric
--
-vector
--
-
 /home/fabrizzio/Downloads/Grad_School/808X/week6/valgrind_exercise/app/main.cpp
 iostream
 -

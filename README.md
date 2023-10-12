@@ -1,4 +1,5 @@
 # Valgrind Exercise
+When the executable is linked statically, valgrind does not detect the bugs because it can no longer examine external libraries which are useful in detecting errors.
 
 ## Standard install via command-line
 ```bash
@@ -19,6 +20,3 @@
 # Clean and start over:
   rm -rf build/
 ```
-
-
-
