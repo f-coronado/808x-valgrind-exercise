@@ -1,5 +1,8 @@
 # Valgrind Exercise
+## Extra Credit Question
 When the executable is linked statically, valgrind does not detect the bugs because it can no longer examine external libraries which are useful in detecting errors.
+
+## Valgrind outputs are in results folder
 
 ## Standard install via command-line
 ```bash
